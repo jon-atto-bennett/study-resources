@@ -1,75 +1,75 @@
 # study-resources
 A repository containing resources for learning web dev.
 
-# Javascript
+## Javascript
 
-Eloquent Javascript
-You don't know Javascript
-Javascript, The Better Parts
-The Two Pillars of Javascript
+- Eloquent Javascript
+- You don't know Javascript
+- Javascript, The Better Parts
+- The Two Pillars of Javascript
 
-# ES6
+## ES6
 
-Learn ES6 - Egghead.io
+- Learn ES6 - Egghead.io
 
-# HTML & CSS
+## HTML & CSS
 
-CodeSchool
-Codecademy
-Udacity
-HTML and CSS: Design and Build Websites
-Managing Mobile Performance Optimisation
-High Performance Animation
+- CodeSchool
+- Codecademy
+- Udacity
+- HTML and CSS: Design and Build Websites
+- Managing Mobile Performance Optimisation
+- High Performance Animation
 
-# Less & Sass
+## Less & Sass
 
-WinLess's Online Compiler
-SassMeister
-Comparison between LESS & SASS - Shelby Moulden
+- WinLess's Online Compiler
+- SassMeister
+- Comparison between LESS & SASS - Shelby Moulden
 
-# Responsive Design
+## Responsive Design
 
-Udacity
-Bootstrap
-9 Basic Principles of Responsive Design - Froont's Blog
+- Udacity
+- Bootstrap
+- 9 Basic Principles of Responsive Design - Froont's Blog
 
-# AngularJS
+## AngularJS
 
-Design Decisions in AngularJS - Google Developer
-Egghead.io
-Building your own AngularJS
+- Design Decisions in AngularJS - Google Developer
+- Egghead.io
+- Building your own AngularJS
 
-# Design Patterns
+## Design Patterns
 
-Javascript Design Patterns - doFactory
-Learning Javascript Design Patterns - Addy Osmani
+- Javascript Design Patterns - doFactory
+- Learning Javascript Design Patterns - Addy Osmani
 
-# Chrome Dev Tools
+## Chrome Dev Tools
 
-Explore and Master Chrome Dev Tools - CodeSchool
+- Explore and Master Chrome Dev Tools - CodeSchool
 
-# Git
+## Git
 
-Git Training - Atlassian
+- Git Training - Atlassian
 
-# NodeJS
+## NodeJS
 
-NodeSchool.io
+- NodeSchool.io
 
-# Task Runners (Grunt & Gulp)
+## Task Runners (Grunt & Gulp)
 
-Scotch.io
+- Scotch.io
 
-# Bundlers (Webpack & Browsify)
+## Bundlers (Webpack & Browsify)
 
-Scotch.io
-Why can't anyone write a simple Webpack Tutorial - David Fox Powell
+- Scotch.io
+- Why can't anyone write a simple Webpack Tutorial - David Fox Powell
 
-# ReactJS
+## ReactJS
 
-Learning React.js - Scotch.io
-React Fundamentals - Egghead.io
+- Learning React.js - Scotch.io
+- React Fundamentals - Egghead.io
 
-#Redux
+## Redux
 
-CSS Tricks Levelling up with React: Redux
+- CSS Tricks Levelling up with React: Redux
